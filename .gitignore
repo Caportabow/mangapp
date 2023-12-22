@@ -1,0 +1,6 @@
+publish.cmd
+
+# Ignore directories
+.git/
+.idea/
+__pycache__/
